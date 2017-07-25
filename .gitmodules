@@ -1,0 +1,3 @@
+[submodule "nanogui-go"]
+	path = nanogui-go
+	url = https://github.com/funnywwh/nanogui-go
